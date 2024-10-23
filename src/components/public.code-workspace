@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"name": "public",
+		"path": "../../../react/react-tutorial/src/test/apple_website_public/public"
+	},
+	{
+		"name": "apple",
+		"path": "../.."
+	}
+],
+  "settings": {}
+}
