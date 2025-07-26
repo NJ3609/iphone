@@ -28,39 +28,41 @@ A stunning front-end replica of the Apple iPhone product page, built using HTML,
 
 ## 📁 Folder Structure
 
-```bash
-iphone/
+=iphone/
 ├── index.html
 ├── style.css
 ├── script.js
 └── assets/
     └── images/
-```
+
+
 🧑‍💻 How to Use
 Clone the repo
 
-bash
+---
 Copy
 Edit
 git clone https://github.com/NJ3609/iphone.git
 Open in browser
+---
 
-bash
+---
 Copy
 Edit
 cd iphone
 open index.html
 Or just drag the index.html into your browser.
+---
 
-✨ Inspiration
+##✨ Inspiration
 This project is inspired by Apple's iconic design language. It aims to help web designers learn modern layout techniques and animation practices while creating beautiful UIs.
 
-📬 Feedback
+##📬 Feedback
 Have suggestions or improvements? Feel free to open an issue or submit a pull request!
 
-📄 License
+##📄 License
 This project is open-source and available under the MIT License.
 
-❤️ Support
+##❤️ Support
 If you like this project, consider giving it a ⭐️ on GitHub to help others discover it!
 
