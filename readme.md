@@ -6,12 +6,6 @@ A stunning front-end replica of the Apple iPhone product page, built using HTML,
 
 > **🌐 [https://iphone-15nj.netlify.app/]**
 
----
-
-
-> *(Replace above links with real image URLs or upload images to the repo's Issues or Discussions and grab the raw URLs.)*
-
----
 
 ## 🛠️ Built With
 
@@ -41,6 +35,7 @@ iphone/
 ├── script.js
 └── assets/
     └── images/
+```
 🧑‍💻 How to Use
 Clone the repo
 
